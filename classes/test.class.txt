@@ -9,3 +9,6 @@ class TestUI2 { ;;}
 
 class TestInterfaces { ;;}
 class TestInterfaces2 { ;;}
+
+class TestReports { ;;}
+class TestReports2 { ;;}
