@@ -2,4 +2,6 @@ class Test {
 	;;
 }
 
-class TestInterfaces { ;; }
+class TestConfigs {
+	;;
+}
