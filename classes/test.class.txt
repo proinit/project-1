@@ -5,3 +5,4 @@ class Test {
 class TestConfigs {	;;}
 
 class TestUI { ;;}
+class TestUI2 { ;;}
