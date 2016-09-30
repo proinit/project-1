@@ -4,5 +4,8 @@ class Test {
 
 class TestConfigs {	;;}
 
+class TestUI { ;;}
+class TestUI2 { ;;}
+
 class TestInterfaces { ;;}
 class TestInterfaces2 { ;;}
