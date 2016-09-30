@@ -5,3 +5,4 @@ class Test {
 class TestConfigs {	;;}
 
 class TestInterfaces { ;;}
+class TestInterfaces2 { ;;}
