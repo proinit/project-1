@@ -1,6 +1,4 @@
-class Test {
-	;;
-}
+class Test { ;;}
 
 class TestConfigs {	;;}
 
@@ -15,3 +13,4 @@ class TestCalculation2 { ;;}
 
 class TestReports { ;;}
 class TestReports2 { ;;}
+
